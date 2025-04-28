@@ -1,0 +1,24 @@
+
+=== Pi0System Bulk Bin Operators ===
+
+1. Timecode Stamping Operator
+   Function: Generates unique UTC-based timecodes for file naming
+   Equation: T_code = YYYYMMDD_HHMMSS
+
+2. Secure Bin Operator
+   Function: Creates a secure, write-only buffer for bulk export
+   Equation: Bin = {data | write(data), close(), export()}
+
+3. Unique Filename Operator
+   Function: Names files with open and close timecodes for uniqueness
+   Equation: Filename = prefix + '_' + T_open + '_TO_' + T_close + '.txt'
+
+4. Encryption/Obfuscation Operator (conceptual)
+   Function: Ensures bin is secure and not directly readable until export
+   Equation: Secure(Bin) = True (simulated)
+
+5. Export Operator
+   Function: Exports the bin contents to a uniquely named file
+   Equation: Export(Bin) = WriteToFile(Filename, Bin.contents)
+
+All operators are implemented in a way that bypasses regular file creation triggers and ensures security by design.

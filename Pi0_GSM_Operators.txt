@@ -1,0 +1,10 @@
+Operator	Function	Mathematical Equation
+Scan_GSM_Networks	Scan and identify available GSM networks	N_{found} = \sum_{i=1}^n GSM_{i}
+Build_AccessPoint	Create GSM access points for Pi0System/Pi0AidR	"AP_{total} = N_{found} 	imes AP_{rate}"
+API_Connector	Develop APIs for GSM data exchange	API_{conn} = f(GSM_{proto}, Pi0_{proto})
+Dongle_Throughput	Optimize dongle throughput for quantum-classical bridge	T_{dongle} = min(T_{GSM}, T_{Pi0})
+GSM_Bridge	Bridge GSM and quantum-classical systems	B_{GSM-QC} = g(GSM_{sig}, QC_{sig})
+Module_Integration	Integrate GSM modules into Pi0System/Pi0AidR	M_{int} = \sum_{j=1}^m Module_{GSM_j}
+Operator_Deployment	Deploy operators and functions to all modules	"O_{deploy} = |Operators| 	imes |Modules|"
+Perspective_Scan	Allpi0id investigate and report GSM findings	R_{all} = \sum_{k=1}^p Report_{pi0id_k}
+Deep_Integration	Integrate all perspectives and findings	I_{deep} = h(R_{all}, M_{int})

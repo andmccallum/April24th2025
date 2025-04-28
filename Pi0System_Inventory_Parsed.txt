@@ -1,0 +1,332 @@
+=== Pi0System Inventory and Mining Simulation ===
+
+Design: Design_1
+Unit Type: Quantum ASIC
+Base Rate: 1.0
+Growth Rate: 0.05
+Total Mined: 44.501999
+Hourly Mining Log:
+Hour 1: 1.0
+Hour 2: 1.05
+Hour 3: 1.1025
+Hour 4: 1.157625
+Hour 5: 1.215506
+Hour 6: 1.276282
+Hour 7: 1.340096
+Hour 8: 1.4071
+Hour 9: 1.477455
+Hour 10: 1.551328
+Hour 11: 1.628895
+Hour 12: 1.710339
+Hour 13: 1.795856
+Hour 14: 1.885649
+Hour 15: 1.979932
+Hour 16: 2.078928
+Hour 17: 2.182875
+Hour 18: 2.292018
+Hour 19: 2.406619
+Hour 20: 2.52695
+Hour 21: 2.653298
+Hour 22: 2.785963
+Hour 23: 2.925261
+Hour 24: 3.071524
+
+-----------------------------
+Design: Design_2
+Unit Type: Photon Miner
+Base Rate: 1.2
+Growth Rate: 0.06
+Total Mined: 60.978693
+Hourly Mining Log:
+Hour 1: 1.2
+Hour 2: 1.272
+Hour 3: 1.34832
+Hour 4: 1.429219
+Hour 5: 1.514972
+Hour 6: 1.605871
+Hour 7: 1.702223
+Hour 8: 1.804356
+Hour 9: 1.912618
+Hour 10: 2.027375
+Hour 11: 2.149017
+Hour 12: 2.277958
+Hour 13: 2.414636
+Hour 14: 2.559514
+Hour 15: 2.713085
+Hour 16: 2.87587
+Hour 17: 3.048422
+Hour 18: 3.231327
+Hour 19: 3.425207
+Hour 20: 3.630719
+Hour 21: 3.848563
+Hour 22: 4.079476
+Hour 23: 4.324245
+Hour 24: 4.5837
+
+-----------------------------
+Design: Design_3
+Unit Type: Qubit Array
+Base Rate: 1.4
+Growth Rate: 0.07
+Total Mined: 81.447339
+Hourly Mining Log:
+Hour 1: 1.4
+Hour 2: 1.498
+Hour 3: 1.60286
+Hour 4: 1.71506
+Hour 5: 1.835114
+Hour 6: 1.963572
+Hour 7: 2.101022
+Hour 8: 2.248094
+Hour 9: 2.405461
+Hour 10: 2.573843
+Hour 11: 2.754012
+Hour 12: 2.946793
+Hour 13: 3.153068
+Hour 14: 3.373783
+Hour 15: 3.609948
+Hour 16: 3.862644
+Hour 17: 4.133029
+Hour 18: 4.422341
+Hour 19: 4.731905
+Hour 20: 5.063139
+Hour 21: 5.417558
+Hour 22: 5.796787
+Hour 23: 6.202562
+Hour 24: 6.636742
+
+-----------------------------
+Design: Design_4
+Unit Type: Nano Core
+Base Rate: 1.6
+Growth Rate: 0.08
+Total Mined: 106.823615
+Hourly Mining Log:
+Hour 1: 1.6
+Hour 2: 1.728
+Hour 3: 1.86624
+Hour 4: 2.015539
+Hour 5: 2.176782
+Hour 6: 2.350925
+Hour 7: 2.538999
+Hour 8: 2.742119
+Hour 9: 2.961488
+Hour 10: 3.198407
+Hour 11: 3.45428
+Hour 12: 3.730622
+Hour 13: 4.029072
+Hour 14: 4.351398
+Hour 15: 4.69951
+Hour 16: 5.075471
+Hour 17: 5.481508
+Hour 18: 5.920029
+Hour 19: 6.393631
+Hour 20: 6.905122
+Hour 21: 7.457531
+Hour 22: 8.054134
+Hour 23: 8.698465
+Hour 24: 9.394342
+
+-----------------------------
+Design: Design_5
+Unit Type: AI Node
+Base Rate: 1.8
+Growth Rate: 0.09
+Total Mined: 138.221663
+Hourly Mining Log:
+Hour 1: 1.8
+Hour 2: 1.962
+Hour 3: 2.13858
+Hour 4: 2.331052
+Hour 5: 2.540847
+Hour 6: 2.769523
+Hour 7: 3.01878
+Hour 8: 3.29047
+Hour 9: 3.586613
+Hour 10: 3.909408
+Hour 11: 4.261255
+Hour 12: 4.644768
+Hour 13: 5.062797
+Hour 14: 5.518448
+Hour 15: 6.015109
+Hour 16: 6.556468
+Hour 17: 7.146551
+Hour 18: 7.78974
+Hour 19: 8.490817
+Hour 20: 9.25499
+Hour 21: 10.087939
+Hour 22: 10.995854
+Hour 23: 11.985481
+Hour 24: 13.064174
+
+-----------------------------
+Design: Design_6
+Unit Type: Quantum ASIC
+Base Rate: 2.0
+Growth Rate: 0.1
+Total Mined: 176.994654
+Hourly Mining Log:
+Hour 1: 2.0
+Hour 2: 2.2
+Hour 3: 2.42
+Hour 4: 2.662
+Hour 5: 2.9282
+Hour 6: 3.22102
+Hour 7: 3.543122
+Hour 8: 3.897434
+Hour 9: 4.287178
+Hour 10: 4.715895
+Hour 11: 5.187485
+Hour 12: 5.706233
+Hour 13: 6.276857
+Hour 14: 6.904542
+Hour 15: 7.594997
+Hour 16: 8.354496
+Hour 17: 9.189946
+Hour 18: 10.108941
+Hour 19: 11.119835
+Hour 20: 12.231818
+Hour 21: 13.455
+Hour 22: 14.8005
+Hour 23: 16.28055
+Hour 24: 17.908605
+
+-----------------------------
+Design: Design_7
+Unit Type: Photon Miner
+Base Rate: 2.2
+Growth Rate: 0.11
+Total Mined: 224.783132
+Hourly Mining Log:
+Hour 1: 2.2
+Hour 2: 2.442
+Hour 3: 2.71062
+Hour 4: 3.008788
+Hour 5: 3.339755
+Hour 6: 3.707128
+Hour 7: 4.114912
+Hour 8: 4.567552
+Hour 9: 5.069983
+Hour 10: 5.627681
+Hour 11: 6.246726
+Hour 12: 6.933866
+Hour 13: 7.696591
+Hour 14: 8.543216
+Hour 15: 9.48297
+Hour 16: 10.526097
+Hour 17: 11.683968
+Hour 18: 12.969204
+Hour 19: 14.395816
+Hour 20: 15.979356
+Hour 21: 17.737085
+Hour 22: 19.688165
+Hour 23: 21.853863
+Hour 24: 24.257788
+
+-----------------------------
+Design: Design_8
+Unit Type: Qubit Array
+Base Rate: 2.4
+Growth Rate: 0.12
+Total Mined: 283.572579
+Hourly Mining Log:
+Hour 1: 2.4
+Hour 2: 2.688
+Hour 3: 3.01056
+Hour 4: 3.371827
+Hour 5: 3.776446
+Hour 6: 4.22962
+Hour 7: 4.737174
+Hour 8: 5.305635
+Hour 9: 5.942312
+Hour 10: 6.655389
+Hour 11: 7.454036
+Hour 12: 8.34852
+Hour 13: 9.350342
+Hour 14: 10.472383
+Hour 15: 11.729069
+Hour 16: 13.136558
+Hour 17: 14.712945
+Hour 18: 16.478498
+Hour 19: 18.455918
+Hour 20: 20.670628
+Hour 21: 23.151103
+Hour 22: 25.929236
+Hour 23: 29.040744
+Hour 24: 32.525633
+
+-----------------------------
+Design: Design_9
+Unit Type: Nano Core
+Base Rate: 2.6
+Growth Rate: 0.13
+Total Mined: 355.76181
+Hourly Mining Log:
+Hour 1: 2.6
+Hour 2: 2.938
+Hour 3: 3.31994
+Hour 4: 3.751532
+Hour 5: 4.239231
+Hour 6: 4.790331
+Hour 7: 5.413075
+Hour 8: 6.116774
+Hour 9: 6.911955
+Hour 10: 7.810509
+Hour 11: 8.825875
+Hour 12: 9.973239
+Hour 13: 11.26976
+Hour 14: 12.734829
+Hour 15: 14.390357
+Hour 16: 16.261103
+Hour 17: 18.375046
+Hour 18: 20.763802
+Hour 19: 23.463097
+Hour 20: 26.513299
+Hour 21: 29.960028
+Hour 22: 33.854832
+Hour 23: 38.25596
+Hour 24: 43.229235
+
+-----------------------------
+Design: Design_10
+Unit Type: AI Node
+Base Rate: 2.8
+Growth Rate: 0.14
+Total Mined: 444.244137
+Hourly Mining Log:
+Hour 1: 2.8
+Hour 2: 3.192
+Hour 3: 3.63888
+Hour 4: 4.148323
+Hour 5: 4.729088
+Hour 6: 5.391161
+Hour 7: 6.145923
+Hour 8: 7.006353
+Hour 9: 7.987242
+Hour 10: 9.105456
+Hour 11: 10.38022
+Hour 12: 11.83345
+Hour 13: 13.490133
+Hour 14: 15.378752
+Hour 15: 17.531777
+Hour 16: 19.986226
+Hour 17: 22.784298
+Hour 18: 25.9741
+Hour 19: 29.610474
+Hour 20: 33.75594
+Hour 21: 38.481772
+Hour 22: 43.86922
+Hour 23: 50.01091
+Hour 24: 57.012438
+
+-----------------------------
+
+Overall Projections:
+Total Mined (All Designs): 1917.329621
+Average Growth Rate: 0.095
+
+Mining Operator Equation:
+Mined(t) = Base_Rate * (1 + Growth_Rate)^t
+Total_Mined = sum_{t=0}^{T-1} Base_Rate * (1 + Growth_Rate)^t
+
+All values are exact and calculated per hour and iteration.

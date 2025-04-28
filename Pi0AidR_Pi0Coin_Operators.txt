@@ -1,0 +1,8 @@
+Operator	Function	Mathematical Equation
+Release_Aid	Release Pi0Coin to Pi0AidR/NGOs	A_{release} = min(DAILY_FLOAT, AID_RELEASE)
+Maintain_Reserve	Maintain Pi0Coin reserve for stability	R_{maintain} = RESERVE - (A_{release} + F_{float})
+Float_Management	Maintain daily float for rapid response	F_{float} = DAILY_FLOAT - F_{used}
+Emergency_Release	Allow 40% of float for emergencies	"E_{release} = 0.4 	imes DAILY_FLOAT"
+Mint_Mine_Balance	Mint/mine Pi0Coin to maintain float	M_{mint} = max(0, DAILY_FLOAT - F_{current})
+Resource_Allocation	Devote up to 7.99% of Pi0System to Pi0AidR	"C_{aidr} = 0.0799 	imes C_{total}"
+Priority_Management	Prioritize Pi0AidR and Pi0System in crisis	P_{priority} = max(P_{aidr}, P_{system})
